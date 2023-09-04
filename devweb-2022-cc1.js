@@ -93,7 +93,7 @@ function addCow(evt) {
   monimage.style.transform = `rotate(${rotationAngle}deg)`;
 
 
-  document.body.appendChild(monimage)
+  document.body.appendChild(monimage);
 
 }
 
